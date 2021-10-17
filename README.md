@@ -1,7 +1,6 @@
 # diabeties_prediction
 
 ABSTRACT
-
 Diabetes is a disease whereby blood sugar (glucose) is not metabolized in the body. In this
 work different methods of machine learning techniques are used to predict diabetes using
 dataset from the National Institute of Diabetes and Digestive and Kidney Diseases. This
@@ -9,7 +8,8 @@ dataset has eight parameters. Standard Machine learning procedures are used, the
 collected, visualized and prepared by cleaning. Two methods are used for cleaning,
 Method 1- Column deletion and Method 2- Replacing by mean.
 Following algorithms are applied to both methods
-1)k-nearest neighbor algorithm, 
+
+1) k-nearest neighbor algorithm, 
 2) decision tree, 
 3) logistic regression, 
 4) support-vector machine, 
