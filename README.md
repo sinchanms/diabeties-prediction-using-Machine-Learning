@@ -6,7 +6,10 @@ work different methods of machine learning techniques are used to predict diabet
 dataset from the National Institute of Diabetes and Digestive and Kidney Diseases. This
 dataset has eight parameters. Standard Machine learning procedures are used, the data is
 collected, visualized and prepared by cleaning. Two methods are used for cleaning,
-Method 1- Column deletion and Method 2- Replacing by mean.
+
+Method 1- Column deletion and
+Method 2- Replacing by mean.
+
 Following algorithms are applied to both methods
 
 1) k-nearest neighbor algorithm, 
