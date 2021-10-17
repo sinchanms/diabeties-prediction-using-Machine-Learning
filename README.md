@@ -1,5 +1,4 @@
-# diabeties_prediction
-
+# diabeties-prediction-using-Machine-Learning 
 ABSTRACT
 
 Diabetes is a disease whereby blood sugar (glucose) is not metabolized in the body. In this
