@@ -1,6 +1,7 @@
 # diabeties_prediction
 
 ABSTRACT
+
 Diabetes is a disease whereby blood sugar (glucose) is not metabolized in the body. In this
 work different methods of machine learning techniques are used to predict diabetes using
 dataset from the National Institute of Diabetes and Digestive and Kidney Diseases. This
